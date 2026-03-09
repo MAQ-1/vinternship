@@ -116,7 +116,7 @@ Step 3: Click on the link to join the meet by registering yourself for the meeti
 
 **3.1 Will the course instructor supervise our work directly?**  
 The instructor **may interact** with participants depending on project requirements.  
-Mentors and coordinators will engage via **live sessions** and **forums**.
+Mentors and coordinators will engage via **live sessions** and **standups**.
 
 **3.2 Do we get to meet our mentors?**  
 Yes, your project mentors can schedule a meeting based on the doubts and issues you are facing in the projects or in the learning phase.
